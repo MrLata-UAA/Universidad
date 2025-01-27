@@ -1,0 +1,19 @@
+{
+    "name": "ltrab/universidad",
+    "description": "Proyect University",
+    "type": "project",
+    "require": {
+        "codeigniter4/framework": "^4.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ltrab\\Universidad\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Trabuco",
+            "email": "ltrabuco.13@gmail.com"
+        }
+    ]
+}
